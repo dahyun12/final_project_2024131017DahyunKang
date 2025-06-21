@@ -61,5 +61,5 @@
 ### 실행 예시
 
 - 시작 화면
-  ![image](https://github.com/user-attachments/assets/4e65264a-0ae5-4c20-81f1-947e6f58d239)
+  ![](![image](https://github.com/user-attachments/assets/4e65264a-0ae5-4c20-81f1-947e6f58d239))
 
