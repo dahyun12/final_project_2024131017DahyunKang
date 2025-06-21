@@ -25,16 +25,16 @@
 
 ### 코드 구조 및 기능 설명
 
-## is_valid(board, row, col, num)
+## 'is_valid(board, row, col, num)'
 - 주어진 숫자 `num`을 `board[row][col]`에 넣을 수 있는지 검사합니다.
 - 같은 행/열/3×3 구역에 `num`이 이미 존재하면 False를 반환합니다.
 
-## count_solutions(board)
+## 'count_solutions(board)'
 - 현재 보드 상태에서 가능한 **정답의 개수**를 백트래킹으로 계산합니다.
 - 두 개 이상의 해답이 생기면 더 이상 탐색하지 않고 중단합니다.
 - 이를 통해 퍼즐이 **유일한 해**를 갖는지 판단합니다.
 
-## fill_board(board)
+## 'fill_board(board)'
 - 완성된 정답 보드를 만드는 백트래킹 함수입니다.
 - 숫자 1~9를 무작위 순서로 넣으며 가능한 보드를 완성합니다.
 
