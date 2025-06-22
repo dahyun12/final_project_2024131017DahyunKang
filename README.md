@@ -2,6 +2,8 @@
 릿코드 프로필 링크: https://leetcode.com/u/dahyun12/
 
 
+---
+---
 
 # **Final Project**  
 ## Topic: Sudoku Game with Python
@@ -91,4 +93,12 @@
 
  만약 모든 빈칸을 올바른 숫자로 채우고, 잘못된 값을 입력한 횟수가 3회 미만이면 게임이 클리어된다.
 
+<img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.%ED%81%B4%EB%A6%AC%EC%96%B4.png" width="200"/>
  
+---
+
+### 한계 및 고찰
+
+- 정답이 유일한 퍼즐을 생성하기는 하지만, 코드 효율성 및 퍼즐 생성 속도를 더 개선할 여지가 있습니다.
+- GUI(그래픽 인터페이스)가 없기 때문에 직관적으로 보기에는 어려울 수 있습니다.
+- 난이도 조절 기능이 없어, 매번 랜덤으로 만들어진 퍼즐을 그대로 풀어야 합니다.
