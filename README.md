@@ -77,4 +77,5 @@
   잘못된 값을 입력 시 "WRONG NUMBER!"이라는 출력과 함께 실수 횟수를 표시한다:(n/3)
   이는 틀린 값을 3회 입력할 경우 게임이 오버되는 규칙을 표시하는 것이다.
   또한 스도쿠 보드가 **입력값을 추가하기 않고** 다시 출력되어 사용자는 행, 열, 값을 입력할 수 있다.
+
    <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.wrongnum.png" width="250"/>
