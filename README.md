@@ -71,10 +71,10 @@
 - 시작 화면
   게임이 시작되면 사용자는 행, 열, 값을 입력해 스도쿠 보드를 채울 수 있다.
   올바른 값을 입력하면 해당 값이 추가된 상태의 보드가 출력되고, 다시 사용자는 행, 열, 값을 입력할 수 있다.
-  <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4.png" width="200"/>
+  <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4.png" width="250"/>
 
 - 잘못 입력 시
   잘못된 값을 입력 시 "WRONG NUMBER!"이라는 출력과 함께 실수 횟수를 표시한다:(n/3)
   이는 틀린 값을 3회 입력할 경우 게임이 오버되는 규칙을 표시하는 것이다.
   또한 스도쿠 보드가 **입력값을 추가하기 않고** 다시 출력되어 사용자는 행, 열, 값을 입력할 수 있다.
-   <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4.png" width="200"/>
+   <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.wrongnum.png" width="250"/>
