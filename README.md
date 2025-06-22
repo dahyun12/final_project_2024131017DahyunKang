@@ -1,8 +1,8 @@
 # **\<LeetCode Progress\>**
 릿코드 프로필 링크: https://leetcode.com/u/dahyun12/
 
-<img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/score1.png">
-
+<img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/score1.png" width="200">
+<img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/score2.png" width="200">
 
 ---
 ---
