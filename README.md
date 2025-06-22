@@ -73,6 +73,7 @@
 - 시작 화면
   게임이 시작되면 사용자는 행, 열, 값을 입력해 스도쿠 보드를 채울 수 있다.
   올바른 값을 입력하면 해당 값이 추가된 상태의 보드가 출력되고, 다시 사용자는 행, 열, 값을 입력할 수 있다.
+  
   <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4.png" width="250"/>
 
 - 잘못 입력 시
@@ -89,11 +90,11 @@
 - 게임 종료
   잘못된 값을 3회 입력하여 기회가 소진되면 게임 오버된다.
   
-  <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.%EA%B2%8C%EC%9E%84%EC%98%A4%EB%B2%84.png" width="200"/>
+  <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.%EA%B2%8C%EC%9E%84%EC%98%A4%EB%B2%84.png" width="250"/>
 
  만약 모든 빈칸을 올바른 숫자로 채우고, 잘못된 값을 입력한 횟수가 3회 미만이면 게임이 클리어된다.
 
-<img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.%ED%81%B4%EB%A6%AC%EC%96%B4.png" width="200"/>
+<img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.%ED%81%B4%EB%A6%AC%EC%96%B4.png" width="250"/>
  
 ---
 
