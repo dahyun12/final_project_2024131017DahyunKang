@@ -86,4 +86,4 @@
 
 - 게임 종료
   잘못된 값을 3회 입력하여 기회가 소진되면 게임 오버된다.
-  <img src="Invalid range. Please enter numbers from 1 to 9." width="200"/>
+  <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.%EA%B2%8C%EC%9E%84%EC%98%A4%EB%B2%84.png" width="200"/>
