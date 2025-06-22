@@ -78,4 +78,12 @@
   이는 틀린 값을 3회 입력할 경우 게임이 오버되는 규칙을 표시하는 것이다.
   또한 스도쿠 보드가 **입력값을 추가하기 않고** 다시 출력되어 사용자는 행, 열, 값을 입력할 수 있다.
 
-   <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.wrongnum.png" width="250"/>
+   <img src="https://github.com/dahyun12/final_project_2024131017DahyunKang/blob/main/sudoku.wrongnum.png" width="230"/>
+
+  만약 숫자를 입력할 수 없는 행, 열을 고르거나 1-9 사이의 값을 입력하지 않을 경우에는
+  "You cannot change this cell.", "Invalid range. Please enter numbers from 1 to 9."와 같은 메시지가 출력되며
+  다시 입력 기회가 생긴다.
+
+- 게임 종료
+  잘못된 값을 3회 입력하여 기회가 소진되면 게임 오버된다.
+  <img src="Invalid range. Please enter numbers from 1 to 9." width="200"/>
