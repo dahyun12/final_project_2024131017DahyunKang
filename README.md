@@ -1,11 +1,11 @@
-# **<LeetCode Progress>**
+# **`<LeetCode Progress>`**
 릿코드 프로필 링크: https://leetcode.com/u/dahyun12/
 
 
 ---
 ---
 
-# **<Final Project>**  
+# **`<Final Project>`**  
 ## Topic: Sudoku Game with Python
 
 ---
